@@ -1,3 +1,3 @@
 # hello-world
 This is my first repository
-I love node.js
+I love node.js and coffescript
